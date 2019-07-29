@@ -2,11 +2,11 @@
 Arte, audio, roteiro, rascunhos do jogo.
 
 # Arte
-Lugares;
-Personagens;
-Demais imagens;
-Inventário;
-Logo;
+<p>Lugares;
+<p>Personagens;
+<p>Demais imagens;
+<p>Inventário;
+<p>Logo;
 
 # Audio
 Pasta Roteiros.
