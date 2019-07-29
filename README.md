@@ -2,15 +2,25 @@
 Arte, audio, roteiro, rascunhos do jogo.
 
 # Arte
-Em desenvolvimento.
+Lugares;
+Personagens;
+Demais imagens;
+Inventário;
+Logo;
 
 # Audio
-Em desenvolvimento.
+Pasta Roteiros.
 
 # Roteiro
-Em desenvolvimento.
+Twinery - https://twinery.org/2/#!/stories/e9252e92-cabb-4a1b-be5d-2bf6e56c415e
+Pasta Roteiros.
 
-# Prorgrama
+# Programa
 
 Programa em unit C#: https://github.com/lombinho-games/FatecGameJam
 git reposiitory: https://github.com/lombinho-games/FatecGameJam.git
+
+# Links úteis
+https://github.com/lombinho-games/FatecGameJam
+
+
