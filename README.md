@@ -12,18 +12,18 @@ Arte, audio, roteiro, rascunhos do jogo.
 <a href="https://www.google.com.br">https://www.google.com.br</a>
 
 # Audio
-Pasta Roteiros.
+<p>Pasta Roteiros.
 
 # Roteiro
-Twinery - https://twinery.org/2/#!/stories/e9252e92-cabb-4a1b-be5d-2bf6e56c415e
-Pasta Roteiros.
+<p>Twinery - Fluxo Detetive >> <a href="https://twinery.org/2/#!/stories/e9252e92-cabb-4a1b-be5d-2bf6e56c415e">O jantar das aparências</a>
+<p>Pasta Roteiros.
 
 # Programa
 
-Programa em unit C#: https://github.com/lombinho-games/FatecGameJam
-git reposiitory: https://github.com/lombinho-games/FatecGameJam.git
+<p>Programa em unit C#: <a href="https://github.com/lombinho-games/FatecGameJam">O jantar das aparências</a>
+<p>git repository: https://github.com/lombinho-games/FatecGameJam.git
 
 # Links úteis
-https://github.com/lombinho-games/FatecGameJam
+<p>https://github.com/lombinho-games/FatecGameJam
 
 
